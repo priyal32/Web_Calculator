@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  build: run
+  build: 
     machine:
       image: windows-default # Windows machine image
     resource_class: windows.medium
